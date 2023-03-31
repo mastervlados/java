@@ -2,6 +2,9 @@
 // Реализовать простой калькулятор (+,-,=,*), 
 // только с целыми числами.
 import java.util.Scanner;
+import java.io.IOException;
+import java.util.logging.*;
+import java.io.File;
 
 class SimpleCalc {
     public static void main(String[] args) {
@@ -18,26 +21,62 @@ class SimpleCalc {
         System.out.println("| 4 to \"?=\" |          | 0 to exit|");
         System.out.println("+-----------+----------+----------+");
         int operation = getNumberSuggestInput("number of operation");
+        String answer = new String();
+
+        // Init Logger
+        Logger logger = Logger.getLogger(SimpleCalc.class.getName());
+        // ConsoleHandler ch = new ConsoleHandler();
+        // logger.addHandler(ch);
+        
+        FileHandler fh;
+        try {
+            String pathProject = System.getProperty("user.dir");
+            String pathFile = pathProject.concat("/log.xml");
+            // From the FileHandlerconstructor, 
+            // you can specify a boolean to specify an append mode.
+            fh = new FileHandler(pathFile, true); // add new lines
+            logger.addHandler(fh);
+            // To remove the console handler:
+            logger.setUseParentHandlers(false);
+            // SimpleFormatter sFormat = new SimpleFormatter();
+            // ch.setFormatter(sFormat);
+            XMLFormatter xml = new XMLFormatter();
+            // ! ch.setFormatter(xml);
+            fh.setFormatter(xml);
+        } catch (Exception e) {
+            System.out.println("BOOM!");
+            e.printStackTrace();
+        }
 
         switch (operation) {
         case 1: 
-            result = getSumOfTwoNumbers(firstNumber, secondNumber); 
-            System.out.printf("%d + %d = %d", firstNumber, secondNumber, result);
+            result = getSumOfTwoNumbers(firstNumber, secondNumber);
+            answer = String.format("%d + %d = %d", firstNumber, secondNumber, result);
+            System.out.println(answer);
+            logger.info(answer);
             break;
         case 2: 
             result = getDiffOfTwoNumbers(firstNumber, secondNumber); 
-            System.out.printf("%d - %d = %d", firstNumber, secondNumber, result);
+            answer = String.format("%d - %d = %d", firstNumber, secondNumber, result);
+            System.out.println(answer);
+            logger.info(answer);
             break;
         case 3: 
             result = getProductOfTwoNumbers(firstNumber, secondNumber); 
-            System.out.printf("%d * %d = %d", firstNumber, secondNumber, result);
+            answer = String.format("%d * %d = %d", firstNumber, secondNumber, result);
+            System.out.println(answer);
+            logger.info(answer);
             break;
         case 4: 
             result = getLogicComparisonOfTwoNumbers(firstNumber, secondNumber); 
-            System.out.printf("%d = %d ? %b", firstNumber, secondNumber, result);
+            answer = String.format("%d = %d ? %b", firstNumber, secondNumber, result);
+            System.out.println(answer);
+            logger.info(answer);
             break;
         default: 
-            System.out.println(" Closing Application ");
+            answer = " Closing Application ";
+            System.out.println(answer);
+            logger.info(answer);
             break;
         }
     }
