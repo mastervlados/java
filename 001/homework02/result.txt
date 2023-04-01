@@ -1,0 +1,16 @@
+Mar 30, 2023 5:48:35 PM LoggerErrors main
+INFO: Add true
+Mar 30, 2023 5:49:26 PM LoggerErrors main
+INFO: Add true
+Mar 30, 2023 5:49:30 PM LoggerErrors main
+INFO: Value out of range. Value:"200" Radix:10
+Mar 30, 2023 5:49:57 PM LoggerErrors main
+INFO: null
+Mar 30, 2023 5:50:20 PM LoggerErrors main
+INFO: null
+Mar 30, 2023 5:50:36 PM LoggerErrors main
+INFO: null
+Mar 30, 2023 5:52:44 PM LoggerErrors main
+INFO: BOOM! true
+Mar 30, 2023 5:53:47 PM LoggerErrors main
+INFO: BOOM!Value out of range. Value:"200" Radix:10
