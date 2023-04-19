@@ -7,13 +7,17 @@ import java.util.List;
 public class VendingMachine {
     
     private int volume;
-    private List<Product> products;// = new ArrayList<Product>();
+    private ArrayList<Product> products;// = new ArrayList<Product>();
     private List<String> workLog;// = new ArrayList<String>();
 
     public VendingMachine(int volume){
         this.volume = volume;
         products = new ArrayList<Product>();
         workLog = new ArrayList<String>();
+    }
+    
+    public int getVolume() {
+    	return this.volume;
     }
 
     public void addProduct(Product prod)
@@ -38,7 +42,7 @@ public class VendingMachine {
         return null;
     }
 
-    public List<Product> getProdAll()
+    public ArrayList<Product> getProdAll()
     {
         return products;
     }
