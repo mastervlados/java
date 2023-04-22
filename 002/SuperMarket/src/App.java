@@ -15,6 +15,7 @@ public class App {
         iActorBehaviour item5 = new PromoCustomer("Vera");
         iActorBehaviour item6 = new PromoCustomer("Esenia");
         iActorBehaviour item7 = new PromoCustomer("Denis");
+        iActorBehaviour item8 = new PromoCustomer("Helen");
 
         market.acceptToMarket(item1);
         market.acceptToMarket(item2);
@@ -23,6 +24,7 @@ public class App {
         market.acceptToMarket(item5);
         market.acceptToMarket(item6);
         market.acceptToMarket(item7);
+        market.acceptToMarket(item8);
     
         market.update();
 
