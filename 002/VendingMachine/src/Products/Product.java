@@ -51,6 +51,10 @@ public class Product {
         }
         this.price = value;
     }
+    
+    public String getLabelForVendingMachine() {
+    	return String.format("~%s~ | %.2f y.e.", name, price);
+    }
 
     /**
      * переопределение вывода продукта

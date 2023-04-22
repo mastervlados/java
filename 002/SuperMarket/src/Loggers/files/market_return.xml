@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-22T03:15:36.408435700Z</date>
+  <millis>1682133336408</millis>
+  <nanos>435700</nanos>
+  <sequence>35</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha оформил заявление на возврат товара</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.415433400Z</date>
+  <millis>1682133336415</millis>
+  <nanos>433400</nanos>
+  <sequence>39</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia оформил заявление на возврат товара</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.451412Z</date>
+  <millis>1682133336451</millis>
+  <nanos>412000</nanos>
+  <sequence>49</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha вернул товар и получил деньги обратно</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.458407600Z</date>
+  <millis>1682133336458</millis>
+  <nanos>407600</nanos>
+  <sequence>53</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia вернул товар и получил деньги обратно</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-22T03:15:37.762661Z</date>
+  <millis>1682133337762</millis>
+  <nanos>661000</nanos>
+  <sequence>31</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav оформил заявление на возврат товара</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.765660100Z</date>
+  <millis>1682133337765</millis>
+  <nanos>660100</nanos>
+  <sequence>35</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha оформил заявление на возврат товара</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.768658900Z</date>
+  <millis>1682133337768</millis>
+  <nanos>658900</nanos>
+  <sequence>41</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis оформил заявление на возврат товара</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.769657900Z</date>
+  <millis>1682133337769</millis>
+  <nanos>657900</nanos>
+  <sequence>45</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav вернул товар и получил деньги обратно</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.772655600Z</date>
+  <millis>1682133337772</millis>
+  <nanos>655600</nanos>
+  <sequence>49</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha вернул товар и получил деньги обратно</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.776653700Z</date>
+  <millis>1682133337776</millis>
+  <nanos>653700</nanos>
+  <sequence>55</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis вернул товар и получил деньги обратно</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-22T03:15:39.075910100Z</date>
+  <millis>1682133339075</millis>
+  <nanos>910100</nanos>
+  <sequence>39</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia оформил заявление на возврат товара</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.128879500Z</date>
+  <millis>1682133339128</millis>
+  <nanos>879500</nanos>
+  <sequence>53</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia вернул товар и получил деньги обратно</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-22T03:16:04.785201800Z</date>
+  <millis>1682133364785</millis>
+  <nanos>201800</nanos>
+  <sequence>29</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris оформил заявление на возврат товара</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.791197900Z</date>
+  <millis>1682133364791</millis>
+  <nanos>197900</nanos>
+  <sequence>33</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha оформил заявление на возврат товара</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.794195800Z</date>
+  <millis>1682133364794</millis>
+  <nanos>195800</nanos>
+  <sequence>35</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha оформил заявление на возврат товара</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.798194Z</date>
+  <millis>1682133364798</millis>
+  <nanos>194000</nanos>
+  <sequence>39</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia оформил заявление на возврат товара</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.803191500Z</date>
+  <millis>1682133364803</millis>
+  <nanos>191500</nanos>
+  <sequence>43</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris вернул товар и получил деньги обратно</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.808188600Z</date>
+  <millis>1682133364808</millis>
+  <nanos>188600</nanos>
+  <sequence>47</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha вернул товар и получил деньги обратно</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.809187700Z</date>
+  <millis>1682133364809</millis>
+  <nanos>187700</nanos>
+  <sequence>49</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha вернул товар и получил деньги обратно</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.812185700Z</date>
+  <millis>1682133364812</millis>
+  <nanos>185700</nanos>
+  <sequence>53</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia вернул товар и получил деньги обратно</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-22T03:16:13.130427600Z</date>
+  <millis>1682133373130</millis>
+  <nanos>427600</nanos>
+  <sequence>31</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav оформил заявление на возврат товара</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.135424100Z</date>
+  <millis>1682133373135</millis>
+  <nanos>424100</nanos>
+  <sequence>41</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis было отказано в обслуживании из за превышения числа участников акции</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.136423900Z</date>
+  <millis>1682133373136</millis>
+  <nanos>423900</nanos>
+  <sequence>45</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market_return.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav вернул товар и получил деньги обратно</message>
+</record>
+</log>
