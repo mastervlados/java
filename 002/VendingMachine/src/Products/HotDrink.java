@@ -11,6 +11,7 @@ public class HotDrink extends Product {
         this.temperature = temperature;
     }
 
+    /** Получить температуру напитка */
     public int getTemperature() {
         return temperature;
     }
