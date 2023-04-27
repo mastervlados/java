@@ -1,11 +1,11 @@
-package Classes;
+package domain.Classes.StudentGroup;
 
 import java.util.Iterator;
 import java.util.List;
 
-import Classes.People.Student;
+import domain.Classes.Person.People.Student;
 
-public class StudentGroup implements Iterable<Student>,  Comparable<StudentGroup> {
+public class StudentGroup implements Iterable<Student> {
     private long groupID = 100;
     private String groupName;
     private List<Student> students; 
@@ -65,16 +65,5 @@ public class StudentGroup implements Iterable<Student>,  Comparable<StudentGroup
             System.out.println(student);
         }
         return String.format("> Count of members: %d\n", students.size());
-    }
-
-    @Override
-    public int compareTo(StudentGroup o) {
-        if (this.students.size() == o.getStudents().size()) {
-            return 0;
-        } else if (this.students.size() > o.getStudents().size()) {
-            return 1;
-        } else {
-            return -1;
-        }
     }
 }

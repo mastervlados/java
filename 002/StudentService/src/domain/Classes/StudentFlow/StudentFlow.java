@@ -1,8 +1,10 @@
-package Classes;
+package domain.Classes.StudentFlow;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
+
+import domain.Classes.StudentGroup.StudentGroup;
 
 public class StudentFlow implements Iterable<StudentGroup> {
     private long studentFlowID;
