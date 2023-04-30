@@ -1,0 +1,2252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-22T03:15:36.354467100Z</date>
+  <millis>1682133336354</millis>
+  <nanos>467100</nanos>
+  <sequence>1</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.358465400Z</date>
+  <millis>1682133336358</millis>
+  <nanos>465400</nanos>
+  <sequence>3</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.359464200Z</date>
+  <millis>1682133336359</millis>
+  <nanos>464200</nanos>
+  <sequence>5</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.360463600Z</date>
+  <millis>1682133336360</millis>
+  <nanos>463600</nanos>
+  <sequence>7</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.366459900Z</date>
+  <millis>1682133336366</millis>
+  <nanos>459900</nanos>
+  <sequence>9</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.368459300Z</date>
+  <millis>1682133336368</millis>
+  <nanos>459300</nanos>
+  <sequence>11</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.370457600Z</date>
+  <millis>1682133336370</millis>
+  <nanos>457600</nanos>
+  <sequence>13</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.376454700Z</date>
+  <millis>1682133336376</millis>
+  <nanos>454700</nanos>
+  <sequence>15</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.379452400Z</date>
+  <millis>1682133336379</millis>
+  <nanos>452400</nanos>
+  <sequence>17</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.380451800Z</date>
+  <millis>1682133336380</millis>
+  <nanos>451800</nanos>
+  <sequence>19</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.385449900Z</date>
+  <millis>1682133336385</millis>
+  <nanos>449900</nanos>
+  <sequence>21</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.386448800Z</date>
+  <millis>1682133336386</millis>
+  <nanos>448800</nanos>
+  <sequence>23</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.393446600Z</date>
+  <millis>1682133336393</millis>
+  <nanos>446600</nanos>
+  <sequence>25</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.394444600Z</date>
+  <millis>1682133336394</millis>
+  <nanos>444600</nanos>
+  <sequence>27</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.398441900Z</date>
+  <millis>1682133336398</millis>
+  <nanos>441900</nanos>
+  <sequence>29</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.399441400Z</date>
+  <millis>1682133336399</millis>
+  <nanos>441400</nanos>
+  <sequence>31</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.403439400Z</date>
+  <millis>1682133336403</millis>
+  <nanos>439400</nanos>
+  <sequence>33</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.413434Z</date>
+  <millis>1682133336413</millis>
+  <nanos>434000</nanos>
+  <sequence>37</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.419429600Z</date>
+  <millis>1682133336419</millis>
+  <nanos>429600</nanos>
+  <sequence>41</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.431422600Z</date>
+  <millis>1682133336431</millis>
+  <nanos>422600</nanos>
+  <sequence>43</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.434421200Z</date>
+  <millis>1682133336434</millis>
+  <nanos>421200</nanos>
+  <sequence>45</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.449412900Z</date>
+  <millis>1682133336449</millis>
+  <nanos>412900</nanos>
+  <sequence>47</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.453411Z</date>
+  <millis>1682133336453</millis>
+  <nanos>411000</nanos>
+  <sequence>51</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.458407600Z</date>
+  <millis>1682133336458</millis>
+  <nanos>407600</nanos>
+  <sequence>55</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.459407100Z</date>
+  <millis>1682133336459</millis>
+  <nanos>407100</nanos>
+  <sequence>57</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.460406500Z</date>
+  <millis>1682133336460</millis>
+  <nanos>406500</nanos>
+  <sequence>59</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.461406600Z</date>
+  <millis>1682133336461</millis>
+  <nanos>406600</nanos>
+  <sequence>61</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.464404500Z</date>
+  <millis>1682133336464</millis>
+  <nanos>404500</nanos>
+  <sequence>63</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.473400300Z</date>
+  <millis>1682133336473</millis>
+  <nanos>400300</nanos>
+  <sequence>65</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.477399300Z</date>
+  <millis>1682133336477</millis>
+  <nanos>399300</nanos>
+  <sequence>67</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.479395700Z</date>
+  <millis>1682133336479</millis>
+  <nanos>395700</nanos>
+  <sequence>69</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.483393400Z</date>
+  <millis>1682133336483</millis>
+  <nanos>393400</nanos>
+  <sequence>71</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.486392100Z</date>
+  <millis>1682133336486</millis>
+  <nanos>392100</nanos>
+  <sequence>73</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.493387500Z</date>
+  <millis>1682133336493</millis>
+  <nanos>387500</nanos>
+  <sequence>75</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.494387800Z</date>
+  <millis>1682133336494</millis>
+  <nanos>387800</nanos>
+  <sequence>77</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.498385800Z</date>
+  <millis>1682133336498</millis>
+  <nanos>385800</nanos>
+  <sequence>79</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.501384100Z</date>
+  <millis>1682133336501</millis>
+  <nanos>384100</nanos>
+  <sequence>81</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:36.504381700Z</date>
+  <millis>1682133336504</millis>
+  <nanos>381700</nanos>
+  <sequence>83</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis ушел из магазина</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-22T03:15:37.729679600Z</date>
+  <millis>1682133337729</millis>
+  <nanos>679600</nanos>
+  <sequence>1</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.733678400Z</date>
+  <millis>1682133337733</millis>
+  <nanos>678400</nanos>
+  <sequence>3</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.734677700Z</date>
+  <millis>1682133337734</millis>
+  <nanos>677700</nanos>
+  <sequence>5</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.735676500Z</date>
+  <millis>1682133337735</millis>
+  <nanos>676500</nanos>
+  <sequence>7</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.736676100Z</date>
+  <millis>1682133337736</millis>
+  <nanos>676100</nanos>
+  <sequence>9</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.738675Z</date>
+  <millis>1682133337738</millis>
+  <nanos>675000</nanos>
+  <sequence>11</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.742675500Z</date>
+  <millis>1682133337742</millis>
+  <nanos>675500</nanos>
+  <sequence>13</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.744671900Z</date>
+  <millis>1682133337744</millis>
+  <nanos>671900</nanos>
+  <sequence>15</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.746670400Z</date>
+  <millis>1682133337746</millis>
+  <nanos>670400</nanos>
+  <sequence>17</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.749668600Z</date>
+  <millis>1682133337749</millis>
+  <nanos>668600</nanos>
+  <sequence>19</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.751667700Z</date>
+  <millis>1682133337751</millis>
+  <nanos>667700</nanos>
+  <sequence>21</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.752668Z</date>
+  <millis>1682133337752</millis>
+  <nanos>668000</nanos>
+  <sequence>23</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.753667200Z</date>
+  <millis>1682133337753</millis>
+  <nanos>667200</nanos>
+  <sequence>25</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.754667100Z</date>
+  <millis>1682133337754</millis>
+  <nanos>667100</nanos>
+  <sequence>27</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.758664500Z</date>
+  <millis>1682133337758</millis>
+  <nanos>664500</nanos>
+  <sequence>29</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.763660600Z</date>
+  <millis>1682133337763</millis>
+  <nanos>660600</nanos>
+  <sequence>33</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.766660Z</date>
+  <millis>1682133337766</millis>
+  <nanos>660000</nanos>
+  <sequence>37</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.767658700Z</date>
+  <millis>1682133337767</millis>
+  <nanos>658700</nanos>
+  <sequence>39</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.768658900Z</date>
+  <millis>1682133337768</millis>
+  <nanos>658900</nanos>
+  <sequence>43</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.770656800Z</date>
+  <millis>1682133337770</millis>
+  <nanos>656800</nanos>
+  <sequence>47</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.774654300Z</date>
+  <millis>1682133337774</millis>
+  <nanos>654300</nanos>
+  <sequence>51</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.775654200Z</date>
+  <millis>1682133337775</millis>
+  <nanos>654200</nanos>
+  <sequence>53</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.779651800Z</date>
+  <millis>1682133337779</millis>
+  <nanos>651800</nanos>
+  <sequence>57</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.781651300Z</date>
+  <millis>1682133337781</millis>
+  <nanos>651300</nanos>
+  <sequence>59</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.785649200Z</date>
+  <millis>1682133337785</millis>
+  <nanos>649200</nanos>
+  <sequence>61</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.786648Z</date>
+  <millis>1682133337786</millis>
+  <nanos>648000</nanos>
+  <sequence>63</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.790645600Z</date>
+  <millis>1682133337790</millis>
+  <nanos>645600</nanos>
+  <sequence>65</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.792645Z</date>
+  <millis>1682133337792</millis>
+  <nanos>645000</nanos>
+  <sequence>67</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.793643900Z</date>
+  <millis>1682133337793</millis>
+  <nanos>643900</nanos>
+  <sequence>69</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.794643400Z</date>
+  <millis>1682133337794</millis>
+  <nanos>643400</nanos>
+  <sequence>71</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.796642Z</date>
+  <millis>1682133337796</millis>
+  <nanos>642000</nanos>
+  <sequence>73</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.797641400Z</date>
+  <millis>1682133337797</millis>
+  <nanos>641400</nanos>
+  <sequence>75</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.798641300Z</date>
+  <millis>1682133337798</millis>
+  <nanos>641300</nanos>
+  <sequence>77</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.799640500Z</date>
+  <millis>1682133337799</millis>
+  <nanos>640500</nanos>
+  <sequence>79</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.800639900Z</date>
+  <millis>1682133337800</millis>
+  <nanos>639900</nanos>
+  <sequence>81</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:37.801639300Z</date>
+  <millis>1682133337801</millis>
+  <nanos>639300</nanos>
+  <sequence>83</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis ушел из магазина</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-22T03:15:39.003950500Z</date>
+  <millis>1682133339003</millis>
+  <nanos>950500</nanos>
+  <sequence>1</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.010947100Z</date>
+  <millis>1682133339010</millis>
+  <nanos>947100</nanos>
+  <sequence>3</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.016943500Z</date>
+  <millis>1682133339016</millis>
+  <nanos>943500</nanos>
+  <sequence>5</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.018942200Z</date>
+  <millis>1682133339018</millis>
+  <nanos>942200</nanos>
+  <sequence>7</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.029936Z</date>
+  <millis>1682133339029</millis>
+  <nanos>936000</nanos>
+  <sequence>9</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.030935200Z</date>
+  <millis>1682133339030</millis>
+  <nanos>935200</nanos>
+  <sequence>11</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.032935700Z</date>
+  <millis>1682133339032</millis>
+  <nanos>935700</nanos>
+  <sequence>13</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.032935700Z</date>
+  <millis>1682133339032</millis>
+  <nanos>935700</nanos>
+  <sequence>15</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.033933300Z</date>
+  <millis>1682133339033</millis>
+  <nanos>933300</nanos>
+  <sequence>17</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.034933200Z</date>
+  <millis>1682133339034</millis>
+  <nanos>933200</nanos>
+  <sequence>19</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.035932900Z</date>
+  <millis>1682133339035</millis>
+  <nanos>932900</nanos>
+  <sequence>21</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.036932700Z</date>
+  <millis>1682133339036</millis>
+  <nanos>932700</nanos>
+  <sequence>23</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.045927100Z</date>
+  <millis>1682133339045</millis>
+  <nanos>927100</nanos>
+  <sequence>25</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.046926800Z</date>
+  <millis>1682133339046</millis>
+  <nanos>926800</nanos>
+  <sequence>27</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.052923Z</date>
+  <millis>1682133339052</millis>
+  <nanos>923000</nanos>
+  <sequence>29</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.059921100Z</date>
+  <millis>1682133339059</millis>
+  <nanos>921100</nanos>
+  <sequence>31</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.063916500Z</date>
+  <millis>1682133339063</millis>
+  <nanos>916500</nanos>
+  <sequence>33</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.067915100Z</date>
+  <millis>1682133339067</millis>
+  <nanos>915100</nanos>
+  <sequence>35</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.072911200Z</date>
+  <millis>1682133339072</millis>
+  <nanos>911200</nanos>
+  <sequence>37</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.082906100Z</date>
+  <millis>1682133339082</millis>
+  <nanos>906100</nanos>
+  <sequence>41</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.087902900Z</date>
+  <millis>1682133339087</millis>
+  <nanos>902900</nanos>
+  <sequence>43</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.093899100Z</date>
+  <millis>1682133339093</millis>
+  <nanos>899100</nanos>
+  <sequence>45</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.101895500Z</date>
+  <millis>1682133339101</millis>
+  <nanos>895500</nanos>
+  <sequence>47</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.107892300Z</date>
+  <millis>1682133339107</millis>
+  <nanos>892300</nanos>
+  <sequence>49</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.119884300Z</date>
+  <millis>1682133339119</millis>
+  <nanos>884300</nanos>
+  <sequence>51</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.130878200Z</date>
+  <millis>1682133339130</millis>
+  <nanos>878200</nanos>
+  <sequence>55</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.132877Z</date>
+  <millis>1682133339132</millis>
+  <nanos>877000</nanos>
+  <sequence>57</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.143871200Z</date>
+  <millis>1682133339143</millis>
+  <nanos>871200</nanos>
+  <sequence>59</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.149867500Z</date>
+  <millis>1682133339149</millis>
+  <nanos>867500</nanos>
+  <sequence>61</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.155864100Z</date>
+  <millis>1682133339155</millis>
+  <nanos>864100</nanos>
+  <sequence>63</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.161860400Z</date>
+  <millis>1682133339161</millis>
+  <nanos>860400</nanos>
+  <sequence>65</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.170855200Z</date>
+  <millis>1682133339170</millis>
+  <nanos>855200</nanos>
+  <sequence>67</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.179850100Z</date>
+  <millis>1682133339179</millis>
+  <nanos>850100</nanos>
+  <sequence>69</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.183848100Z</date>
+  <millis>1682133339183</millis>
+  <nanos>848100</nanos>
+  <sequence>71</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.184847600Z</date>
+  <millis>1682133339184</millis>
+  <nanos>847600</nanos>
+  <sequence>73</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.186847Z</date>
+  <millis>1682133339186</millis>
+  <nanos>847000</nanos>
+  <sequence>75</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.189845400Z</date>
+  <millis>1682133339189</millis>
+  <nanos>845400</nanos>
+  <sequence>77</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.192843300Z</date>
+  <millis>1682133339192</millis>
+  <nanos>843300</nanos>
+  <sequence>79</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.193842100Z</date>
+  <millis>1682133339193</millis>
+  <nanos>842100</nanos>
+  <sequence>81</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:15:39.195841900Z</date>
+  <millis>1682133339195</millis>
+  <nanos>841900</nanos>
+  <sequence>83</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis ушел из магазина</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-22T03:16:04.758216Z</date>
+  <millis>1682133364758</millis>
+  <nanos>216000</nanos>
+  <sequence>1</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.762215500Z</date>
+  <millis>1682133364762</millis>
+  <nanos>215500</nanos>
+  <sequence>3</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.764213200Z</date>
+  <millis>1682133364764</millis>
+  <nanos>213200</nanos>
+  <sequence>5</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.764213200Z</date>
+  <millis>1682133364764</millis>
+  <nanos>213200</nanos>
+  <sequence>7</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.766212Z</date>
+  <millis>1682133364766</millis>
+  <nanos>212000</nanos>
+  <sequence>9</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.767211200Z</date>
+  <millis>1682133364767</millis>
+  <nanos>211200</nanos>
+  <sequence>11</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.770210400Z</date>
+  <millis>1682133364770</millis>
+  <nanos>210400</nanos>
+  <sequence>13</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.771209300Z</date>
+  <millis>1682133364771</millis>
+  <nanos>209300</nanos>
+  <sequence>15</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.775206600Z</date>
+  <millis>1682133364775</millis>
+  <nanos>206600</nanos>
+  <sequence>17</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.776208Z</date>
+  <millis>1682133364776</millis>
+  <nanos>208000</nanos>
+  <sequence>19</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.778206600Z</date>
+  <millis>1682133364778</millis>
+  <nanos>206600</nanos>
+  <sequence>21</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.779204400Z</date>
+  <millis>1682133364779</millis>
+  <nanos>204400</nanos>
+  <sequence>23</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.782203Z</date>
+  <millis>1682133364782</millis>
+  <nanos>203000</nanos>
+  <sequence>25</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.782203Z</date>
+  <millis>1682133364782</millis>
+  <nanos>203000</nanos>
+  <sequence>27</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.787200300Z</date>
+  <millis>1682133364787</millis>
+  <nanos>200300</nanos>
+  <sequence>31</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.797194600Z</date>
+  <millis>1682133364797</millis>
+  <nanos>194600</nanos>
+  <sequence>37</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.802193400Z</date>
+  <millis>1682133364802</millis>
+  <nanos>193400</nanos>
+  <sequence>41</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.804190600Z</date>
+  <millis>1682133364804</millis>
+  <nanos>190600</nanos>
+  <sequence>45</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.810187500Z</date>
+  <millis>1682133364810</millis>
+  <nanos>187500</nanos>
+  <sequence>51</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.813185800Z</date>
+  <millis>1682133364813</millis>
+  <nanos>185800</nanos>
+  <sequence>55</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.814185Z</date>
+  <millis>1682133364814</millis>
+  <nanos>185000</nanos>
+  <sequence>57</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.815186300Z</date>
+  <millis>1682133364815</millis>
+  <nanos>186300</nanos>
+  <sequence>59</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.816183500Z</date>
+  <millis>1682133364816</millis>
+  <nanos>183500</nanos>
+  <sequence>61</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.817183400Z</date>
+  <millis>1682133364817</millis>
+  <nanos>183400</nanos>
+  <sequence>63</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.818182400Z</date>
+  <millis>1682133364818</millis>
+  <nanos>182400</nanos>
+  <sequence>65</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.819182500Z</date>
+  <millis>1682133364819</millis>
+  <nanos>182500</nanos>
+  <sequence>67</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.820181800Z</date>
+  <millis>1682133364820</millis>
+  <nanos>181800</nanos>
+  <sequence>69</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.823180300Z</date>
+  <millis>1682133364823</millis>
+  <nanos>180300</nanos>
+  <sequence>71</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.825178100Z</date>
+  <millis>1682133364825</millis>
+  <nanos>178100</nanos>
+  <sequence>73</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.826177400Z</date>
+  <millis>1682133364826</millis>
+  <nanos>177400</nanos>
+  <sequence>75</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.828177100Z</date>
+  <millis>1682133364828</millis>
+  <nanos>177100</nanos>
+  <sequence>77</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.829176100Z</date>
+  <millis>1682133364829</millis>
+  <nanos>176100</nanos>
+  <sequence>79</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.831174800Z</date>
+  <millis>1682133364831</millis>
+  <nanos>174800</nanos>
+  <sequence>81</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:04.832174500Z</date>
+  <millis>1682133364832</millis>
+  <nanos>174500</nanos>
+  <sequence>83</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis ушел из магазина</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-22T03:16:13.103441500Z</date>
+  <millis>1682133373103</millis>
+  <nanos>441500</nanos>
+  <sequence>1</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.108440Z</date>
+  <millis>1682133373108</millis>
+  <nanos>440000</nanos>
+  <sequence>3</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.109438300Z</date>
+  <millis>1682133373109</millis>
+  <nanos>438300</nanos>
+  <sequence>5</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.110438700Z</date>
+  <millis>1682133373110</millis>
+  <nanos>438700</nanos>
+  <sequence>7</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.112438Z</date>
+  <millis>1682133373112</millis>
+  <nanos>438000</nanos>
+  <sequence>9</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.112438Z</date>
+  <millis>1682133373112</millis>
+  <nanos>438000</nanos>
+  <sequence>11</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.114436300Z</date>
+  <millis>1682133373114</millis>
+  <nanos>436300</nanos>
+  <sequence>13</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.115435Z</date>
+  <millis>1682133373115</millis>
+  <nanos>435000</nanos>
+  <sequence>15</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.116434900Z</date>
+  <millis>1682133373116</millis>
+  <nanos>434900</nanos>
+  <sequence>17</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.117434100Z</date>
+  <millis>1682133373117</millis>
+  <nanos>434100</nanos>
+  <sequence>19</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.118433500Z</date>
+  <millis>1682133373118</millis>
+  <nanos>433500</nanos>
+  <sequence>21</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.119433500Z</date>
+  <millis>1682133373119</millis>
+  <nanos>433500</nanos>
+  <sequence>23</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.121433300Z</date>
+  <millis>1682133373121</millis>
+  <nanos>433300</nanos>
+  <sequence>25</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis встал в очередь</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.125429700Z</date>
+  <millis>1682133373125</millis>
+  <nanos>429700</nanos>
+  <sequence>27</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis пришел в магазин</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.128428900Z</date>
+  <millis>1682133373128</millis>
+  <nanos>428900</nanos>
+  <sequence>29</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.131427Z</date>
+  <millis>1682133373131</millis>
+  <nanos>427000</nanos>
+  <sequence>33</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.132426Z</date>
+  <millis>1682133373132</millis>
+  <nanos>426000</nanos>
+  <sequence>35</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.133425200Z</date>
+  <millis>1682133373133</millis>
+  <nanos>425200</nanos>
+  <sequence>37</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.134424800Z</date>
+  <millis>1682133373134</millis>
+  <nanos>424800</nanos>
+  <sequence>39</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia сделал заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.136423900Z</date>
+  <millis>1682133373136</millis>
+  <nanos>423900</nanos>
+  <sequence>43</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.137423Z</date>
+  <millis>1682133373137</millis>
+  <nanos>423000</nanos>
+  <sequence>47</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.140421600Z</date>
+  <millis>1682133373140</millis>
+  <nanos>421600</nanos>
+  <sequence>49</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.142420800Z</date>
+  <millis>1682133373142</millis>
+  <nanos>420800</nanos>
+  <sequence>51</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.144419800Z</date>
+  <millis>1682133373144</millis>
+  <nanos>419800</nanos>
+  <sequence>53</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia получил свой заказ</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.146418100Z</date>
+  <millis>1682133373146</millis>
+  <nanos>418100</nanos>
+  <sequence>55</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.147417500Z</date>
+  <millis>1682133373147</millis>
+  <nanos>417500</nanos>
+  <sequence>57</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.148416600Z</date>
+  <millis>1682133373148</millis>
+  <nanos>416600</nanos>
+  <sequence>59</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.149415500Z</date>
+  <millis>1682133373149</millis>
+  <nanos>415500</nanos>
+  <sequence>61</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.150415500Z</date>
+  <millis>1682133373150</millis>
+  <nanos>415500</nanos>
+  <sequence>63</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.151415Z</date>
+  <millis>1682133373151</millis>
+  <nanos>415000</nanos>
+  <sequence>65</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.152414400Z</date>
+  <millis>1682133373152</millis>
+  <nanos>414400</nanos>
+  <sequence>67</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis ушел из очереди</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.153414600Z</date>
+  <millis>1682133373153</millis>
+  <nanos>414600</nanos>
+  <sequence>69</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Boris ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.156411800Z</date>
+  <millis>1682133373156</millis>
+  <nanos>411800</nanos>
+  <sequence>71</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vladislav ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.159410600Z</date>
+  <millis>1682133373159</millis>
+  <nanos>410600</nanos>
+  <sequence>73</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Dasha ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.160409700Z</date>
+  <millis>1682133373160</millis>
+  <nanos>409700</nanos>
+  <sequence>75</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Masha ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.161409200Z</date>
+  <millis>1682133373161</millis>
+  <nanos>409200</nanos>
+  <sequence>77</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Vera ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.162410100Z</date>
+  <millis>1682133373162</millis>
+  <nanos>410100</nanos>
+  <sequence>79</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Esenia ушел из магазина</message>
+</record>
+<record>
+  <date>2023-04-22T03:16:13.163408100Z</date>
+  <millis>1682133373163</millis>
+  <nanos>408100</nanos>
+  <sequence>81</sequence>
+  <logger>/C:/Users/mastervlados/Documents/GitHub/mastervlados/java/002/SuperMarket/bin/Loggers/files/market.xml</logger>
+  <level>INFO</level>
+  <class>Loggers.LoggerXML</class>
+  <method>writeLog</method>
+  <thread>1</thread>
+  <message>Denis ушел из магазина</message>
+</record>
+</log>
