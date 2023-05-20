@@ -1,0 +1,3 @@
+interface iEngine {
+    void start();
+}
