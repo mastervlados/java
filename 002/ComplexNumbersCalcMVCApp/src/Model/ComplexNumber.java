@@ -37,7 +37,7 @@ public class ComplexNumber {
     }
 
     /**
-     * Method to set new value for ComplexNumber#a}
+     * Method to set new value for {@link ComplexNumber#a}
      * 
      * @param a - Real part
      */
@@ -55,7 +55,7 @@ public class ComplexNumber {
     }
 
     /**
-     * Method to set new value for ComplexNumber#b}
+     * Method to set new value for {@link ComplexNumber#b}
      * 
      * @param b - Image part
      */
