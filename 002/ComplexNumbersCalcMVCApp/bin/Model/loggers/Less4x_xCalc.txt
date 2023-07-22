@@ -1,0 +1,4 @@
+May 24, 2023 11:02:07 PM Model.TxtLogger writeLog
+INFO: (5 + 6.77i) TIMES (4 + 66i) = (-426.82 + 357.08i)
+May 24, 2023 11:05:08 PM Model.TxtLogger writeLog
+INFO: (5 + 6i) DIVIDE (7 + 8.66i) = (0.7013152079589922 + -0.010484242989267338i)
