@@ -27,7 +27,7 @@ public class MotorcycleTest {
     }
 
     @Test
-    public void testCarParking() {
+    public void testMotoParking() {
         this.moto.testDrive();
         this.moto.park();
         assertTrue(this.moto.getSpeed() == 0);
